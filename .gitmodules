@@ -8,6 +8,9 @@
 [submodule "caretSDM"]
 	path = caretSDM
 	url = https://github.com/luizesser/caretsdm
+[submodule "checkCLI"]
+	path = checkCLI
+	url = https://github.com/luizesser/checkcli
 [submodule "chooseGCM"]
 	path = chooseGCM
 	url = https://github.com/luizesser/choosegcm
